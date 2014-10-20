@@ -1,5 +1,4 @@
 #Windows 7 Pro/Lubuntu Dual-Boot
-=========================
 ###System Specs
 CPU - Intel Core i7-3820 Sandy Bridge-E 3.6GHz
 MOBO - ASUS Sabertooth X79 LGA 2011 Intel X79 SATA - BIOS: 2.14.1219 v3501
