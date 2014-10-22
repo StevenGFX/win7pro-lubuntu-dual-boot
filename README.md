@@ -25,5 +25,5 @@
 | :-------- | :--- | :-------------- | ---------: | :--- |
 | /dev/sda1 | linux-swap | swap | 15.62 GiB |  | 
 | /dev/sda2 | ext4 | home | 292.97 GiB |  |
-| /dev/sda3 | ntfs | shared | 622.92 GiB |  |
+| /dev/sda3 | ntfs | shared | 622.92 GiB | msftdata |
 
