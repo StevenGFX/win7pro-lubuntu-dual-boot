@@ -23,7 +23,7 @@
 
 | Partition | FS | Label |  Size | Used | Unused | Flags |
 | :-------- | :--- | :-------------- | ---------: | --------: | --------: | :--- |
-| New Partition #3 | ext4 | swap | 15.62 GiB | -- | -- |  | 
+| New Partition #3 | linux-swap | swap | 15.62 GiB | -- | -- |  | 
 | New Partition #4 | ext4 | home | 292.97 GiB | -- | -- |  |
 | New Partition #5 | ntfs | shared | 622.92 GiB | -- | -- |  |
 
