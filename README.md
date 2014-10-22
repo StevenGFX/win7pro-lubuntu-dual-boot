@@ -15,15 +15,15 @@
 | :-------- | :--- | :-------------- | ---------: | :--- |
 | /dev/sdb1 | ntfs | System Reserved | 100.00 MiB | boot |
 | /dev/sdb2 | ntfs | Windows 7 Pro 64 | 68.26 MiB |  |
-| New Partition #1 | extended |  | 43.43 GiB |  |
-| New Partition #2 | ext4 | root / | 43.43 GiB |  |
+| /dev/sdb3 | extended |  | 43.43 GiB |  |
+| /dev/sdb5 | ext4 | root / | 43.43 GiB |  |
 
 
 ####HDD - 1TB
 
 | Partition | FS | Label | Size | Flags |
 | :-------- | :--- | :-------------- | ---------: | :--- |
-| New Partition #3 | linux-swap | swap | 15.62 GiB |  | 
-| New Partition #4 | ext4 | home | 292.97 GiB |  |
-| New Partition #5 | ntfs | shared | 622.92 GiB |  |
+| /dev/sda1 | linux-swap | swap | 15.62 GiB |  | 
+| /dev/sda2 | ext4 | home | 292.97 GiB |  |
+| /dev/sda3 | ntfs | shared | 622.92 GiB |  |
 
