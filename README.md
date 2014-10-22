@@ -11,19 +11,19 @@
 ####SSD - 120GB
 
 
-| Partition | FS | Label |  Size | Used | Unused | Flags |
-| :-------- | :--- | :-------------- | ---------: | --------: | --------: | :--- |
-| /dev/sdb1 | ntfs | System Reserved | 100.00 MiB | 24.13 MiB | 75.87 MiB | boot |
-| /dev/sdb2 | ntfs |  | 68.26 MiB | 35.09 MiB | 33.17 MiB |  |
-| New Partition #1 | extended |  |  43.43 GiB | -- | -- |  | 
-| New Partition #2 | ext4 | root / | 43.43 GiB | -- | -- |  |
+| Partition | FS | Label | Size | Flags |
+| :-------- | :--- | :-------------- | ---------: | :--- |
+| /dev/sdb1 | ntfs | System Reserved | 100.00 MiB | boot |
+| /dev/sdb2 | ntfs | Windows 7 Pro 64 | 68.26 MiB |  |
+| New Partition #1 | extended |  | 43.43 GiB |  |
+| New Partition #2 | ext4 | root / | 43.43 GiB |  |
 
 
 ####HDD - 1TB
 
-| Partition | FS | Label |  Size | Used | Unused | Flags |
-| :-------- | :--- | :-------------- | ---------: | --------: | --------: | :--- |
-| New Partition #3 | linux-swap | swap | 15.62 GiB | -- | -- |  | 
-| New Partition #4 | ext4 | home | 292.97 GiB | -- | -- |  |
-| New Partition #5 | ntfs | shared | 622.92 GiB | -- | -- |  |
+| Partition | FS | Label | Size | Flags |
+| :-------- | :--- | :-------------- | ---------: | :--- |
+| New Partition #3 | linux-swap | swap | 15.62 GiB |  | 
+| New Partition #4 | ext4 | home | 292.97 GiB |  |
+| New Partition #5 | ntfs | shared | 622.92 GiB |  |
 
