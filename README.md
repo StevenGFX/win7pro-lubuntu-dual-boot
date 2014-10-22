@@ -12,7 +12,7 @@
 
 
 | Partition | FS | Label | Size | Flags | Mount Point |
-| :-------- | :--- | :-------------- | ---------: | :--- | --- |
+| :-------- | :--- | :-------------- | ---------: | :--- | :--- |
 | /dev/sdb1 | ntfs | System Reserved | 100.00 MiB | boot |  |
 | /dev/sdb2 | ntfs | Windows 7 Pro 64 | 68.26 MiB |  |  |
 | /dev/sdb3 | extended |  | 43.43 GiB |  |  |
@@ -21,8 +21,8 @@
 
 ####HDD - 1TB
 
-| Partition | FS | Label | Size | Flags |
-| :-------- | :--- | :-------------- | ---------: | :--- |
+| Partition | FS | Label | Size | Flags | Mount Point |
+| :-------- | :--- | :-------------- | ---------: | :--- | :--- |
 | /dev/sda1 | linux-swap | swap | 15.62 GiB |  |  | 
 | /dev/sda2 | ext4 | home | 292.97 GiB |  | /home |
 | /dev/sda3 | ntfs | shared | 622.92 GiB | msftdata | /windows |
