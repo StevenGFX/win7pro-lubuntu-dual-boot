@@ -9,6 +9,7 @@
     SSD- SanDisk Extreme II SDSSDXP-120G-G25 2.5"
     HDD - Seagate Barracuda ST1000DM003 1TB 7200 RPM
     GPU - SAPPHIRE 100352-3L Radeon HD 7950 3GB 384-bit (11196-19)
+          Sapphire XXXXXX-XX Radeon R9 280X 3GB 384-bit GDDR5
     PSU - Cooler Master Silent Pro M2 - 720W Power Supply
     CASE - Corsair Carbide Series 330R
 
