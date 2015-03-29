@@ -6,7 +6,8 @@
     MOBO - ASUS Sabertooth X79 LGA 2011 Intel X79 SATA - BIOS: 
     COOLER - CORSAIR Hydro Series H100i Extreme Performance
     MEMORY - CORSAIR Vengeance Pro 16GB (2 x 8GB)
-    SSD- SanDisk Extreme II SDSSDXP-120G-G25 2.5"
+    SSD (RAID 0) - SanDisk Extreme II SDSSDXP-120G-G25 2.5"
+          SanDisk 
     HDD - Seagate Barracuda ST1000DM003 1TB 7200 RPM
     GPU - SAPPHIRE 100352-3L Radeon HD 7950 3GB 384-bit (11196-19)
           SAPHHIRE 100373-2L Radeon R9 280X 3GB 384-bit GDDR5 Dual-X 
