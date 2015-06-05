@@ -7,10 +7,10 @@
     COOLER - CORSAIR Hydro Series H100i Extreme Performance
     MEMORY - CORSAIR Vengeance Pro 16GB (2 x 8GB)
     SSD (RAID 0) - SanDisk Extreme II SDSSDXP-120G-G25 2.5"
-          SanDisk 
+                   SanDisk 120GB 2.5"
     HDD - Seagate Barracuda ST1000DM003 1TB 7200 RPM
     GPU - SAPPHIRE 100352-3L Radeon HD 7950 3GB 384-bit (11196-19)
-          SAPHHIRE 100373-2L Radeon R9 280X 3GB 384-bit GDDR5 Dual-X 
+          SAPHHIRE 100373-2L Radeon R9 280X 3GB 384-bit GDDR5 Dual-X
     PSU - Cooler Master Silent Pro M2 - 720W Power Supply
     CASE - Corsair Carbide Series 330R
 
