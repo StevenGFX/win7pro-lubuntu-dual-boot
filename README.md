@@ -21,8 +21,8 @@
 | :-------- | :--- | :-------------- | ---------: | :--- | :--- |
 | /dev/sdb1 | ntfs | System Reserved | 100.00 MiB | boot |  |
 | /dev/sdb2 | ntfs | Windows 7 Pro 64 | 68.26 MiB |  |  |
-| /dev/sdb3 | extended |  | 43.43 GiB |  |  |
-| /dev/sdb5 | ext4 | root / | 43.43 GiB |  | / |
+| /dev/sdb3 | extended |  | 43.43 GiB |  |  |  (unallocated)
+| /dev/sdb5 | ext4 | root / | 40.43 GiB |  | / |
 
 
 ####HDD - 1TB
@@ -41,3 +41,8 @@
     JOYSTICK - Logitech Extreme 3D Pro
     HEAD TRACKING - TrackIR 3
     DUAL MONITORS
+    
+###*Support Documents*
+https://help.ubuntu.com/community/BinaryDriverHowto/AMD?action=show&redirect=BinaryDriverHowto%2FATI
+
+
