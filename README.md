@@ -37,7 +37,7 @@
 
     KEYBOARD - Corsair K95
     MOUSE - SteelSeries Sensei
-    HEADSET - GameCom 780
+    ~~HEADSET - GameCom 780~~
     JOYSTICK - Logitech Extreme 3D Pro
     HEAD TRACKING - TrackIR 3
     DUAL MONITORS
