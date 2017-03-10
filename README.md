@@ -2,17 +2,18 @@
 
 ###System Specs
 
-    CPU - Intel Core i7-3820 Sandy Bridge-E 3.6GHz
-    MOBO - ASUS Sabertooth X79 LGA 2011 Intel X79 SATA - BIOS: 
-    COOLER - CORSAIR Hydro Series H100i Extreme Performance
-    MEMORY - CORSAIR Vengeance Pro 16GB (2 x 8GB)
-    SSD (RAID 0) - SanDisk Extreme II SDSSDXP-120G-G25 2.5"
-                   SanDisk 120GB 2.5"
-    HDD - Seagate Barracuda ST1000DM003 1TB 7200 RPM
-    GPU - SAPPHIRE 100352-3L Radeon HD 7950 3GB 384-bit (11196-19)
-          SAPHHIRE 100373-2L Radeon R9 280X 3GB 384-bit GDDR5 Dual-X
-    PSU - Cooler Master Silent Pro M2 - 720W Power Supply
-    CASE - Corsair Carbide Series 330R
+| Component | Specs |
+| :--: | :--- |
+| CPU | Intel Core i7-3820 Sandy Bridge-E 3.6GHz |
+| MOBO | ASUS Sabertooth X79 LGA 2011 Intel X79 SATA - BIOS: |
+| COOLER | CORSAIR Hydro Series H100i Extreme Performance |
+| MEMORY | CORSAIR Vengeance Pro 16GB (2 x 8GB) |
+| SSD (RAID 0) | SanDisk Extreme II SDSSDXP-120G-G25 2.5" SanDisk 120GB 2.5" |
+| HDD | Seagate Barracuda ST1000DM003 1TB 7200 RPM |
+| GPU | SAPPHIRE 100352-3L Radeon HD 7950 3GB 384-bit (11196-19) - SAPHHIRE 100373-2L Radeon R9 280X 3GB 384-bit GDDR5 Dual-X |
+| PSU | Cooler Master Silent Pro M2 - 720W Power Supply |
+| CASE | Corsair Carbide Series 330R |
+
 
 ####SSD - 120GB
 
@@ -35,12 +36,14 @@
 
 ###Peripherals
 
-    KEYBOARD - Corsair K95
-    MOUSE - SteelSeries Sensei
-    ~~HEADSET - GameCom 780~~
-    JOYSTICK - Logitech Extreme 3D Pro
-    HEAD TRACKING - TrackIR 3
-    DUAL MONITORS
+| Component | Specs |
+| :--: | :--- |
+| KEYBOARD | Corsair K95
+| MOUSE | SteelSeries Sensei
+| ~~HEADSET~~ | ~~GameCom 780~~
+| JOYSTICK | Logitech Extreme 3D Pro
+| HEAD TRACKING | TrackIR 3
+| MONITOR | Dual ASUS VS247 HMDI |
     
 ###*Support Documents*
 https://help.ubuntu.com/community/BinaryDriverHowto/AMD?action=show&redirect=BinaryDriverHowto%2FATI
